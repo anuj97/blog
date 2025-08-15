@@ -1,0 +1,4 @@
+baseURL: https://windywheeze.netlify.app
+languageCode: en-us
+title: Blog
+theme: ["PaperMod"]
