@@ -1,4 +1,4 @@
 [build.environment]
-  HUGO_VERSION = "0.146g.0"
+  HUGO_VERSION = "0.146.0"
   HUGO_ENV = "production"
   TZ = "Asia/India"
